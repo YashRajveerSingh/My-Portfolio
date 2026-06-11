@@ -4,11 +4,11 @@ A modern, responsive, and interactive developer portfolio built to showcase my p
 
 ## 🌐 Live Demo
 
-🔗 Live Website: [Add Your Deployed URL Here]
+🔗 Live Website:(https://my-portfolio-delta-ten-37.vercel.app/)
 
 ## 📸 Preview
 
-![Portfolio Preview](./public/preview.png)
+(https://my-portfolio-delta-ten-37.vercel.app/)
 
 ---
 
@@ -155,7 +155,7 @@ npm run preview
 
 ### Portfolio
 
-[Add Portfolio URL]
+(https://my-portfolio-delta-ten-37.vercel.app/)
 
 ### GitHub
 
