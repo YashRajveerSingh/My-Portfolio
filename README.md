@@ -182,5 +182,5 @@ This project is licensed under the MIT License.
 Built with ❤️ by Yash Rajveer Singh
 
 
+<img width="1889" height="875" alt="Screenshot 2026-06-11 165650" src="https://github.com/user-attachments/assets/3d49c51e-da8a-42d1-ab76-f5c35ea605b7" />
 
-file:///C:/Users/yashr/OneDrive/Pictures/Screenshots/Screenshot%202026-06-11%20165650.png
